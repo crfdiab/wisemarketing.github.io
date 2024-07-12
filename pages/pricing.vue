@@ -103,7 +103,7 @@ const pricing = [
               <p class="text-sm font-bold mt-2"> Or {{ item.usdPrice }} Per Month</p>
             </template>
           </LandingPricing>
-          <!-- PayPal Button Container only for Beginner SEO -->
+          <!-- PayPal Button Container only for Beginne -->
         </div>
       </template>
     </div>
