@@ -34,7 +34,7 @@ const pricing = [
     ],
     button: {
       text: "Get Started",
-      link: "/contact",
+      link: "/contact-us",
     },
   },
   {
@@ -56,7 +56,7 @@ const pricing = [
     
     button: {
       text: "Get Started",
-      link: "/contact",
+      link: "/contact-us",
     },
   },
   {
@@ -79,7 +79,7 @@ const pricing = [
     
     button: {
       text: "Get Started",
-      link: "/contact",
+      link: "/contact-us",
     },
   },
   
