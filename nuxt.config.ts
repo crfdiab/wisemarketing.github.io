@@ -8,6 +8,9 @@ export default defineNuxtConfig({
       autoprefixer: {},
     },
   },
+  router: {
+    base: '/crfdiab/wisemarketing.github.io/'
+  },
   modules: ["nuxt-icon"],
   app: {
     head: {
