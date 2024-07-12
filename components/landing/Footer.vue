@@ -7,8 +7,8 @@
           <ul class="space-y-2">
             <li><a href="/services" class="text-slate-500 hover:text-slate-700">Our SEO Services</a></li>
             <li><a href="/pricing" class="text-slate-500 hover:text-slate-700">Our SEO Pricing</a></li>
-            <li><a href="/contact" class="text-slate-500 hover:text-slate-700">Contact Us</a></li>
-            <li><a href="#" class="text-slate-500 hover:text-slate-700">Learn SEO</a></li>
+            <li><a href="/contact-us" class="text-slate-500 hover:text-slate-700">Contact Us</a></li>
+            <li><a href="/seo" class="text-slate-500 hover:text-slate-700">Learn SEO</a></li>
           </ul>
         </div>
         <div>
